@@ -8,7 +8,7 @@
         <relativePath>../../pom.xml</relativePath>
     </parent>
     <artifactId>pet-clinic-web</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>pet-clinic-web Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>
